@@ -1,70 +1,100 @@
-# Getting Started with Create React App
+# Portfolio App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The project is a personal portfolio website built using React.js, a popular JavaScript library for building user interfaces. The website features a modern and sleek design, with a responsive layout that works well on both desktop and mobile devices. The main page includes an introduction section, a projects section, a skills section, and a contact form. The projects section displays a collection of the developer's personal projects, each with a brief description and a link to the live demo or source code on GitHub. The website is fully customizable, and developers can easily modify the content and styling to suit their needs.
 
-## Available Scripts
+## Built With
 
-In the project directory, you can run:
+HTML and CSS
+Using Grid and Flexbox etc
+Javascript : Arrays and Objects
+Tailwind
+React
+React-Icons
+React-Scroll
 
-### `npm start`
+## Live Server
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+In the following link, you can view [TECHNOCAMP_2022](https://ravitejam9602.github.io/TechnoCamp_UK_Summit-22/).
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Screenshot
 
-### `npm test`
+![screenshot_Portfolio](./src/assets/projects/portfolio-react.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Getting Started
 
-### `npm run build`
+**This is an example of how you may give instructions on setting up your project locally.**
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Prerequisites
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Browser
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Any modern browser works! :smile:
 
-### `npm run eject`
+### Knowledge
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Basic knowledge of the terminal and git
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Getting Started
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+To get a local copy follow these steps:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+1. Clone the repo by typing on your terminal
 
-## Learn More
+```
+git clone git clone https://github.com/RaviTejaM9602/portfolio-react.git
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+2. Access the repo with
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```
+cd portfolio-react
+```
 
-### Code Splitting
+3. Clone the Repo or Download the Zip file
+   Run the live server or simply open index.html with your browser.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+```
+code .
+```
 
-### Analyzing the Bundle Size
+4. This will start the development server on http://localhost:3000. You can view the website by opening this URL in your web browser.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Authors
 
-### Making a Progressive Web App
+👤 **Ravi Teja M**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+### Prerequisites
 
-### Advanced Configuration
+Tailwind , React, Grid, Flexbox, Images (Concepts in CSS).
+HTML5 Semantic Tags
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+### Setup
 
-### Deployment
+Linter Setup
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## Authors
 
-### `npm run build` fails to minify
+👤 **Author1**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- GitHub: [@githubhandle](https://github.com/RaviTejaM9602/portfolio-react)
+- Twitter: [@twitterhandle](https://twitter.com/RaviTejaMekala1)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ravi-teja-5342b9260/)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Acknowledgments
+
+- Original design idea by [Cindy Shin in Behance](https://www.behance.net/adagio07).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
+Ravi Teja
