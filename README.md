@@ -14,7 +14,7 @@ React-Scroll
 
 ## Live Server
 
-In the following link, you can view [TECHNOCAMP_2022](https://ravitejam9602.github.io/TechnoCamp_UK_Summit-22/).
+In the following link, you can view [PORTFOLIO](https://portfolio-react-alpha-black.vercel.app/).
 
 ## Screenshot
 
